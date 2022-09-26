@@ -21,6 +21,11 @@ namespace Lab_workpos
         int beercount = 0;
         decimal beertotal;
         string beerword;
+        /// <summary>
+        /// 計算按鈕
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnbeer_Click(object sender, EventArgs e)
         {
             Product beer;
