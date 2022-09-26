@@ -22,7 +22,7 @@ namespace Lab_workpos
         decimal beertotal;
         string beerword;
         /// <summary>
-        /// 計算按鈕
+        /// 加入啤酒按鈕
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
